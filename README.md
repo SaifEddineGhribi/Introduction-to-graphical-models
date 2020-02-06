@@ -5,8 +5,8 @@ Place: Télécom ParisTech
 Time: Wednesdays, 14.00-17.30
 
 Syllabus:
-Week 1: Introduction / Probability reminder / Conditional independence / Practical Session 1
-(ungraded)
+Week 1: Introduction / Probability reminder / Conditional independence / 
+<br>
 Week 2: Directed graphical models / D-separation / Undirected graphs / Factor Graphs /
 Inference in trees
 Week 3: Hidden Markov Models / Forward backward algorithm
