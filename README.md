@@ -1,5 +1,7 @@
-# Introduction to graphical models 
 # Master X Data Science ,Paris 2019-2020
+
+# Introduction to graphical models 
+
 
 
 Place: Télécom ParisTech
